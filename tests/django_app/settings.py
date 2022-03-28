@@ -17,6 +17,16 @@ DATABASES = {
     }
 }
 
+CLICKHOUSE_DATABASES = {
+    'default': {
+        'db_url': 'http://127.0.0.1:8123',
+        'db_name': 'default',
+        'username': 'default',
+        'password': '123456',
+        'migrate': True
+    }
+}
+
 USE_TZ = True
 
 MIDDLEWARE_CLASSES = (

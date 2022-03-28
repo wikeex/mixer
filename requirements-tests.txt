@@ -7,5 +7,6 @@ mongoengine         >= 0.10.1
 peewee              >= 3.7.0
 pony                >= 0.7
 psycopg2-binary     >= 2.8.4
+django-clickhouse   >=1.1.2
 
 pytest

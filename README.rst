@@ -14,6 +14,7 @@ Mixer supports:
 * Pony_;
 * Mongoengine_;
 * Marshmallow_;
+* Django-ClickHouse;
 * Custom schemes;
 
 .. _badges:
